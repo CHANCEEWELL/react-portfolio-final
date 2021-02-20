@@ -53,12 +53,12 @@ function Navbar() {
                   className='nav-links'
                   onClick={closeMobileMenu}
                 >
-                  Photography
+                  Contact
                 </Link>
               </li>
               <li>
                 <Link
-                  to='/sign-up'
+                  to='/contact'
                   className='nav-links-mobile'
                   onClick={closeMobileMenu}
                 >
