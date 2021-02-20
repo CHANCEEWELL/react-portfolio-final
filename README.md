@@ -26,4 +26,3 @@ If you are opting out of career services, this is *still a required assignment*.
 
 # Deployment Link
 
-https://immense-castle-41036.herokuapp.com/
