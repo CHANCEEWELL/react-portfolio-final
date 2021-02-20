@@ -32,7 +32,7 @@ function Footer() {
             {/* eslint-disable-next-line */}
             <a
               className='social-icon-link LinkedIn'
-              href="https://www.facebook.com/chance.ewell"
+              href="https://www.linkedin.com/in/chanceewell/"
               target='_blank'
               aria-label='LinkedIn'
             >
@@ -50,7 +50,7 @@ function Footer() {
             {/* eslint-disable-next-line */}
             <a
               className='social-icon-link'
-              href='https://drive.google.com/file/d/1k_CJnnWg9ZiBCTeoam6g3HG59ySD--Ij/view?usp=drivesdk'
+              href='https://drive.google.com/file/d/1s2M4JNED8atGfxu4bouVV2jsAYcJJXG5/view?usp=sharing'
               target='_blank'
               aria-label='Resume'
             >
